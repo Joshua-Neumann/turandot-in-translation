@@ -1,0 +1,9 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://example.com/collection.json",
+    "type": "Collection",
+    "label": { "en": [ "Turandot in Translation" ] },
+    "summary": { "en": [ "This project considers the nature of operatic objects as sung in translation." ] },
+    "items": [
+    ]
+}
